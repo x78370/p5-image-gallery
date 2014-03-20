@@ -1,0 +1,84 @@
+li {
+	font-family: 'Gafata', sans-serif;
+	list-style: none;
+}
+
+h1, p {
+	font-family: 'Gafata', sans-serif;
+	color: #ff6600;
+
+
+/*
+body {
+font-family: 'Gafata', sans-serif;
+	background-color: #424242;
+	width: 320px;
+}
+*/
+
+
+.gallery .th {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+
+
+body {
+    background: #76D5F5;
+    background-image: url('../img/square_bg.png');
+}
+
+h1 {
+    width: 380px;
+    margin: 10px 0 0 0;
+    padding: 10px 20px;
+    font-family: 'Gafata', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    font-family: 'Gafata', sans-serif;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    padding: 5px 0px 5px 0px;
+    width: 380px;
+    border-radius: 4px 4px 0 0;
+}
+
+ul {
+    width: 50%;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    font-family: 'Gafata', sans-serif;
+    margin: 10px 0 0 0;
+}
+
+
+.large-6,
+.large-3 {
+    -moz-transition: width .25s .5s;
+    -webkit-transition: width .25s .5s;
+    transition: width .25s .5s;
+}
+
+.return {
+    font-size: 18px;
+    font-family: 'Gafata', sans-serif;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    padding: 5px 0px 5px 0px;
+    width: 80px;
+    border-radius: 4px 0 0 4px;
+    position: fixed;
+    top: 300px;
+    right: 0px;
+}
+
+
+
